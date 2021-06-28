@@ -27,7 +27,7 @@ export const aboutData = {
     ' developing rich web experiences & web applications.\n' +
     'When not working or futzing around with code, I study how to escape from University. Actually for hire.',
   paragraphThree: 'Feel free to checkout my resume for further details',
-  resume: 'https://drive.google.com/file/d/1GQyb2lmy_EmcNn2JWSQkwlJMOaxLOEry/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1bnG5y7U3jtgk9cUxZXNogFu1jxC3p2DF/view?usp=sharing',
   // if no resume, the button will not show up
 };
 

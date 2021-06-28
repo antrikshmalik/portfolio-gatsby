@@ -40,7 +40,7 @@ export const projectsData = [
     info:
       'A mock e commerce platform developed with ReactJS, Redux, Firebase, SCSS, ' +
       'styled-components (I was experimenting). The application has local storage persistence for' +
-      'the selected items in cart. Lodash is also used to memoize the calculations for total ' +
+      ' the selected items in cart. Lodash is also used to memoize the calculations for total ' +
       'payment. The application has been carefully designed in order to ' +
       'get the best web performance possible and all the components are highly reusable.' +
       ' To accept payments, Stripe API is used.',
@@ -70,7 +70,7 @@ export const projectsData = [
       ' for in real time.',
     info2: '',
     url: 'https://antrikshmalik.github.io/robofriends_new/',
-    repo: 'https://github.com/antrikshmalik_robofriends_new', // if no repo, the button will not show up
+    repo: 'https://github.com/antrikshmalik/robofriends_new', // if no repo, the button will not show up
   },
 ];
 
